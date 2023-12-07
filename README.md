@@ -2,8 +2,6 @@
 
 # Merry Christmas 🎅
 
-# code basic
-
 <div>
     <a><img align="center" src="https://img.shields.io/badge/DEMO-006fff?style=for-the-badge&logo=codepen&logoColor=white" alt="DEMO"/></a>
     <div>
